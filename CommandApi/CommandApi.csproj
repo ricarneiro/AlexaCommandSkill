@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>6b2a7b02-070b-45e6-83d9-802fb8d4f5ca</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+	<DockerfileTag>alexacommandskill</DockerfileTag>  
   </PropertyGroup>
 
   <ItemGroup>
