@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Y6nrJbyKiAgn7ijZzgPW8PqeshmOCuHwAkdO9r55CLzujlSdarBeyIhqTTd7FCaNmow/mCWvRubHOwyfMpJNg==",
+  "success": true,
+  "projectFilePath": "C:\\vscode\\AlexaTest\\Alexa\\Alexa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.24.1\\microsoft.cognitiveservices.speech.1.24.1.nupkg.sha512"
+  ],
+  "logs": []
+}

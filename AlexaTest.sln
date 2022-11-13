@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alexa", "Alexa\Alexa.csproj", "{A44CC896-D65B-443B-9D12-A4FB9CFD3265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeStream", "YoutubeStream\YoutubeStream.csproj", "{8F5AF3DB-D9AA-4291-92AA-85E613DA4447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandApi", "CommandApi\CommandApi.csproj", "{9AA466B2-7A4D-4A98-95B0-DCCA9FD8ECE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A44CC896-D65B-443B-9D12-A4FB9CFD3265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44CC896-D65B-443B-9D12-A4FB9CFD3265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44CC896-D65B-443B-9D12-A4FB9CFD3265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44CC896-D65B-443B-9D12-A4FB9CFD3265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F5AF3DB-D9AA-4291-92AA-85E613DA4447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5AF3DB-D9AA-4291-92AA-85E613DA4447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5AF3DB-D9AA-4291-92AA-85E613DA4447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5AF3DB-D9AA-4291-92AA-85E613DA4447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA466B2-7A4D-4A98-95B0-DCCA9FD8ECE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA466B2-7A4D-4A98-95B0-DCCA9FD8ECE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA466B2-7A4D-4A98-95B0-DCCA9FD8ECE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA466B2-7A4D-4A98-95B0-DCCA9FD8ECE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6012EB29-1E8C-49E6-868A-028E4C4C0F4E}
+	EndGlobalSection
+EndGlobal
